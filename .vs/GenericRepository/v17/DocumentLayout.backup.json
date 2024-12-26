@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\GenericRepository\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26EEF971-60A6-48A6-B4D7-FE0A47C86D5D}|GenericRepository\\GenericRepository.csproj|c:\\users\\i novbe\\source\\repos\\genericrepository\\genericrepository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EEF971-60A6-48A6-B4D7-FE0A47C86D5D}|GenericRepository\\GenericRepository.csproj|solutionrelative:genericrepository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EEF971-60A6-48A6-B4D7-FE0A47C86D5D}|GenericRepository\\GenericRepository.csproj|c:\\users\\i novbe\\source\\repos\\genericrepository\\genericrepository\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26EEF971-60A6-48A6-B4D7-FE0A47C86D5D}|GenericRepository\\GenericRepository.csproj|solutionrelative:genericrepository\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EEF971-60A6-48A6-B4D7-FE0A47C86D5D}|GenericRepository\\GenericRepository.csproj|c:\\users\\i novbe\\source\\repos\\genericrepository\\genericrepository\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EEF971-60A6-48A6-B4D7-FE0A47C86D5D}|GenericRepository\\GenericRepository.csproj|solutionrelative:genericrepository\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EEF971-60A6-48A6-B4D7-FE0A47C86D5D}|GenericRepository\\GenericRepository.csproj|c:\\users\\i novbe\\source\\repos\\genericrepository\\genericrepository\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EEF971-60A6-48A6-B4D7-FE0A47C86D5D}|GenericRepository\\GenericRepository.csproj|solutionrelative:genericrepository\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EEF971-60A6-48A6-B4D7-FE0A47C86D5D}|GenericRepository\\GenericRepository.csproj|c:\\users\\i novbe\\source\\repos\\genericrepository\\genericrepository\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EEF971-60A6-48A6-B4D7-FE0A47C86D5D}|GenericRepository\\GenericRepository.csproj|solutionrelative:genericrepository\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EEF971-60A6-48A6-B4D7-FE0A47C86D5D}|GenericRepository\\GenericRepository.csproj|c:\\users\\i novbe\\source\\repos\\genericrepository\\genericrepository\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EEF971-60A6-48A6-B4D7-FE0A47C86D5D}|GenericRepository\\GenericRepository.csproj|solutionrelative:genericrepository\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\GenericRepository\\GenericRepository\\Program.cs",
+              "RelativeDocumentMoniker": "GenericRepository\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\GenericRepository\\GenericRepository\\Program.cs",
+              "RelativeToolTip": "GenericRepository\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:49:05.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\GenericRepository\\GenericRepository\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "GenericRepository\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\GenericRepository\\GenericRepository\\Services\\StudentService.cs",
+              "RelativeToolTip": "GenericRepository\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:36:41.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\GenericRepository\\GenericRepository\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GenericRepository\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\GenericRepository\\GenericRepository\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "GenericRepository\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:02:59.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\GenericRepository\\GenericRepository\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "GenericRepository\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\GenericRepository\\GenericRepository\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "GenericRepository\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:06:45.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\GenericRepository\\GenericRepository\\appsettings.json",
+              "RelativeDocumentMoniker": "GenericRepository\\appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\GenericRepository\\GenericRepository\\appsettings.json",
+              "RelativeToolTip": "GenericRepository\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T06:12:04.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\GenericRepository\\GenericRepository\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "GenericRepository\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\GenericRepository\\GenericRepository\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "GenericRepository\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:33:39.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
